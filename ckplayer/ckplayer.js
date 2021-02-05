@@ -86,7 +86,7 @@
 			debug: false,//是否开启调试模式
 			overspread:true,//是否让视频铺满播放器
 			language:'',//语言文件路径
-			style:'style2.json',//风格文件路径
+			style:'https://cdn.jsdelivr.net/gh/lem0nb/ckplayer/ckplayer/style2.json',//风格文件路径
 			//以下为广告相关配置
 			adfront: '',
 			adfronttime: '',
