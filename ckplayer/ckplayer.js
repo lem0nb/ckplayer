@@ -55,7 +55,7 @@
 			container: '',//视频容器的ID
 			variable: 'ckplayer',//播放函数(变量)名称
 			volume: 0.8,//默认音量，范围0-1
-			poster: '',//封面图片地址
+			poster: 'mcbg.jpg',//封面图片地址
 			autoplay: false,//是否自动播放
 			loop: false,//是否需要循环播放
 			live: false,//是否是直播
@@ -86,7 +86,7 @@
 			debug: false,//是否开启调试模式
 			overspread:true,//是否让视频铺满播放器
 			language:'',//语言文件路径
-			style:'',//风格文件路径
+			style:'style2.json',//风格文件路径
 			//以下为广告相关配置
 			adfront: '',
 			adfronttime: '',
