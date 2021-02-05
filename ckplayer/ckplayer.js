@@ -109,7 +109,7 @@
 		this.ckConfig = {};
 		this.jsonConfig = {};//该变量为一次性赋值，不再变化
 		//全局变量：语言配置
-		this.ckLanguage = {};
+		this.ckLanguage = {}; 
 		this.jsonLanguage = {};//该变量为一次性赋值，不再变化
 		//全局变量：语言配置
 		this.ckStyle = {};
