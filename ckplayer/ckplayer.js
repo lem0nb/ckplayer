@@ -55,7 +55,7 @@
 			container: '',//视频容器的ID
 			variable: 'ckplayer',//播放函数(变量)名称
 			volume: 0.8,//默认音量，范围0-1
-			poster: 'mcbg.jpg',//封面图片地址
+			poster: 'https://cdn.jsdelivr.net/gh/lem0nb/ckplayer/ckplayer/mcbg.jpg',//封面图片地址
 			autoplay: false,//是否自动播放
 			loop: false,//是否需要循环播放
 			live: false,//是否是直播
@@ -67,7 +67,7 @@
 			next: '',//下一集按钮动作
 			loaded: '',//加载播放器后调用的函数
 			flashplayer: false,//设置成true则强制使用flashplayer
-			html5m3u8: false,//PC平台上是否使用h5播放器播放m3u8
+			html5m3u8: true,//PC平台上是否使用h5播放器播放m3u8
 			track: null,//字幕轨道
 			cktrack: null,//ck字幕
 			cktrackdelay:0,//字幕显示延迟时间
